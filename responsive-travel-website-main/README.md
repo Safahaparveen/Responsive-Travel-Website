@@ -23,6 +23,12 @@ cd travel-website
 
 🔹 Add video backgrounds for a more immersive experience
 
+👩‍💻 About the Author
+
+safaha parveen.s 
+
+An aspiring front-end developer passionate about creating dynamic and responsive web applications.
+
 💬 Feedback & Contributions:
 
 🙌 Contributions are welcome! If you find any issues or have suggestions, feel free to submit a pull request or open an issue.
