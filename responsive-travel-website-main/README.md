@@ -2,6 +2,7 @@
 
 
 🏗️ Installation & Setup:
+-------------------------
 
 1️⃣ Clone the repository:
 
@@ -33,6 +34,7 @@ An aspiring front-end developer passionate about creating dynamic and responsive
 
 
 💬 Feedback & Contributions:
+-----------------------------
 
 🙌 Contributions are welcome! If you find any issues or have suggestions, feel free to submit a pull request or open an issue.
 
