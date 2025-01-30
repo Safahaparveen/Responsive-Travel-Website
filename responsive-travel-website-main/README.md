@@ -1,8 +1,31 @@
-# Responsive Travel Website 🌊
-- Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+                            # Responsive Travel Website 🌊
 
+
+🏗️ Installation & Setup:
+
+1️⃣ Clone the repository:
+
+git clone https://github.com/your-username/travel-website.git
+
+2️⃣ Navigate to the project folder:
+
+cd travel-website
+
+3️⃣ Open index.html in a browser
+
+🚀 Future Enhancements:
+
+🔹 Add a real-time weather API for destination weather updates
+
+🔹 Integrate Google Maps for location previews
+
+🔹 Implement local storage to save user preferences
+
+🔹 Add video backgrounds for a more immersive experience
+
+💬 Feedback & Contributions:
+
+🙌 Contributions are welcome! If you find any issues or have suggestions, feel free to submit a pull request or open an issue.
+
+📩 Have questions? Contact me at ssafaha786@gmail.com
 
