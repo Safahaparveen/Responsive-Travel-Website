@@ -5,7 +5,7 @@
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/your-username/travel-website.git
+git clone https://github.com/Safahaparveen/Responsive-Travel-Website/tree/main/responsive-travel-website-main
 
 2️⃣ Navigate to the project folder:
 
