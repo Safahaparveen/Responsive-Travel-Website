@@ -31,6 +31,7 @@ Travel Explorer is a fully responsive, visually appealing travel website built u
 📂 Project Structure:
 
 travel-website/
+
 │── index.html         # Main homepage
 
 │── destinations.html  # List of destinations
@@ -48,8 +49,12 @@ travel-website/
 │   │   ├── responsive.css # Media queries
 
 │   ├── js/
+
 │   │   ├── script.js # Main JavaScript file
+
 │   │   ├── carousel.js # Image slider
+
 │   ├── images/
+
 │   ├── fonts/
 
